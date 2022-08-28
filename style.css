@@ -1,0 +1,29 @@
+.title { 
+	font-size: 130%;
+	color: #F6D228;
+	}
+body 	{
+	background-color: #1C1C17;
+	text-align: center;
+	text-justify: inter-word;
+	text-align: center;
+	color: #FCF8CC;
+	font-family: verdana, sans-serif;
+	font-size: 95%;
+	padding-right: 5%;
+	padding-left: 5%;
+	}
+.hyperlink {
+	color: #8A9EFA;
+	text-decoration: none;
+	}
+.content {
+	line-height: 1.5;
+	}
+
+.mobile {
+	width: 360px;
+	text-align: center;
+	padding-left: 1%;
+	padding-right: 1%;
+	}
