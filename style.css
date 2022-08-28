@@ -1,20 +1,20 @@
 .title { 
 	font-size: 130%;
-	color: #F6D228;
+	color: #F6D528;
 	}
 body 	{
-	background-color: #1C1C17;
+	background-color: #1C2C17;
 	text-align: center;
 	text-justify: inter-word;
 	text-align: center;
 	color: #FCF8CC;
-	font-family: verdana, sans-serif;
+	font-family: helvetica, sans-serif;
 	font-size: 95%;
 	padding-right: 5%;
 	padding-left: 5%;
 	}
 .hyperlink {
-	color: #8A9EFA;
+	color: #8A1EFA;
 	text-decoration: none;
 	}
 .content {
